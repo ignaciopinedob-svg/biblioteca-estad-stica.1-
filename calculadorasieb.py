@@ -1,4 +1,3 @@
-%writefile calest.py
 
 def media(datos):
   suma = 0
